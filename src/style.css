@@ -3,7 +3,8 @@ body {
     text-align: center;
 }
 
+@media (min-width: 800px) {
 .img-croissant {
-    max-width: 800px;
+    width: 800px;
     height: auto;
 }
